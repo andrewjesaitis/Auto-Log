@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto Log</string>
+    <string name="no_entry">No entries Yet</string>
+    <string name="menu_insert">Add Entry</string>
+    <string name="menu_delete">Delete Entry</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_entry">Looks like you are stopping for fuel...</string>
+</resources>
